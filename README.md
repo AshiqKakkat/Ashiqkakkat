@@ -38,7 +38,8 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AshiqKakkat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AshiqKakkat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AshiqKakkat&show_icons=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AshiqKakkat&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
