@@ -77,7 +77,7 @@
   <a href="https://twitter.com/ashiqkakkat" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="[https://yourportfolio.com](https://my-portfolio-indol-nine-32.vercel.app/)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:ashiqkkat01@gmail.com">
